@@ -1,6 +1,6 @@
 This project demonstrates using Chaos Toolkit to do chaos experiments against a spring boot application.
 
-For more information about running this please see Chaos Toolkit and Chaos Monkey for Spring Boot documentation:
+For more information about these tools, please see Chaos Toolkit and Chaos Monkey for Spring Boot documentation:
 * https://docs.chaostoolkit.org/reference/tutorial/
 * https://docs.chaostoolkit.org/drivers/spring/
 * https://codecentric.github.io/chaos-monkey-spring-boot/

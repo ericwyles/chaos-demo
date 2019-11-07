@@ -21,7 +21,7 @@ This package contains:
 
 ### remote
 This package contains 1 class:
-* **RemoteController** - a simple rest controller with 1 method. This is the service invoked by RemoteClient. This will be the assault point for chaos monkey.
+* **RemoteController** - a simple rest controller with 1 method. This is the service invoked by RemoteClient using rest. In practice this would be in a separate app running somewhere else, but it is included in 1 project for convenience. This will be the assault point for chaos monkey.
 
 
 ## Install Required Software
